@@ -103,5 +103,5 @@ public class Prodotto {
     public void setIdReparto(int idReparto) {
         this.idReparto.set(idReparto);
     }
-    
+     
 }
