@@ -1,4 +1,4 @@
-package gestioneelencofxml.model;
+package gestioneelencofxml.model;//ciao cummi sono gon
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
