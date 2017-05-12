@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gestioneelencofxml.model;
+package gestioneelencofxml.model;//cummi gay capo degli ebrei
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
