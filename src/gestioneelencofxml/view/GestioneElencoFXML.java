@@ -12,7 +12,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-//la banana Cumin
+//la banana Cumin $
 /*
 Classe principale dell'applicazione
 */
